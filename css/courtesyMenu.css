@@ -1,0 +1,18 @@
+/* 
+    Document   : courtesyMenu
+    Created on : 23/04/2013, 12:24:50 AM
+    Author     : Alejandro
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#aboutImage
+{
+    position: relative;
+    left: 37%;
+}
+
+#siteMapContent
+{
+    text-align: center;
+}
